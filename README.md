@@ -1,7 +1,7 @@
-#Consumo de una API de Sismos
+# Consumo de una API de Sismos
 
-##Django
+## Django
 
-##Bootstrap 
+## Bootstrap 
 
-##Jinja
+## Jinja
